@@ -57,7 +57,6 @@ public class Test {
             }
         }).start();
 
-
         System.arraycopy(a1, 0, array, 0, h);
         System.arraycopy(a2, 0, array, h, h);
 
